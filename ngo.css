@@ -39,7 +39,6 @@
  
 .slider-block img{
 width: 100%;
-height: 450px;
 object-fit: cover;
 }
  .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {
