@@ -40,6 +40,7 @@
 .slider-block img{
 width: 100%;
 object-fit: cover;
+height: 450px;
 }
  .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {
     color: white;
